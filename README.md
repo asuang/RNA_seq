@@ -14,7 +14,6 @@
   - [<font size=4>5   compare (gffcompare)</font>](#-font-size-4-5---compare--gffcompare---font-)
   - [<font size=4>5  assembly and quantitate(stringtie)</font>](#-font-size-4-5--assembly-and-quantitate-stringtie---font-)
   - [[RNA_seq_total_RNA.sh](https://github.com/asuang/RNA_seq/blob/master/RNA_seq_total_RNA.sh)]
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>
 
 
 ##  <font size=4>1   quality control (fastQC)</font>
