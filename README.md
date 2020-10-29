@@ -8,9 +8,9 @@
 - [<font size=4>4   assembly and quantitate(stringtie)</font>](#-font-size-4-4---assembly-and-quantitate-stringtie---font-)
 - [[RNA_seq.sh](https://github.com/asuang/RNA_seq/blob/master/RNA_seq.sh)]
 - [<font color="steelblue">Pipe for RNA-seq(remove rRNA,total RNA) </font>](#-font-color--steelblue--pipe-for-rna-seq-remove-rrna-total-rna----font-)
-- [<font size=4>1   quality control (fastQC)</font>](#-font-size-4-1---quality-control--fastqc---font--1)
-- [<font size=4>2   mapping reads(RNA-seq mappers)</font>](#-font-size-4-2---mapping-reads-rna-seq-mappers---font--1)
-- [<font size=4>3   sorting alignment and converting(samtools)</font>](#-font-size-4-3---sorting-alignment-and-converting-samtools---font--1)
+- - [<font size=4>1   quality control (fastQC)</font>](#-font-size-4-1---quality-control--fastqc---font--1)
+- - [<font size=4>2   mapping reads(RNA-seq mappers)</font>](#-font-size-4-2---mapping-reads-rna-seq-mappers---font--1)
+- - [<font size=4>3   sorting alignment and converting(samtools)</font>](#-font-size-4-3---sorting-alignment-and-converting-samtools---font--1)
 - [<font size=4>4   assembly and quantitate(stringtie)</font>](#-font-size-4-4---assembly-and-quantitate-stringtie---font--1)
 - [<font size=4>5   compare (gffcompare)</font>](#-font-size-4-5---compare--gffcompare---font-)
 - [<font size=4>5  assembly and quantitate(stringtie)</font>](#-font-size-4-5--assembly-and-quantitate-stringtie---font-)
