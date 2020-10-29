@@ -1,11 +1,13 @@
 **<font color="grey"><font size=40>UPSTREAM ANALYSIS of RNA-Seq </font></font>**
 <font size=5><font color="grey"><p align="right">2020.10.27</p></font></font>
-# <font color="steelblue">Pipe for RNA-seq(polyA enrichment,mRNA) </font>
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+- [<font size=4>1   Pipe for RNA-seq(polyA enrichment,mRNA)</font>](#-font-size-4-1---quality-control--fastqc---font-)
 - [<font size=4>1   quality control (fastQC)</font>](#-font-size-4-1---quality-control--fastqc---font-)
 - [<font size=4>2   mapping reads(RNA-seq mappers)</font>](#-font-size-4-2---mapping-reads-rna-seq-mappers---font-)
 - [<font size=4>3   sorting alignment and converting(samtools)</font>](#-font-size-4-3---sorting-alignment-and-converting-samtools---font-)
 - [<font size=4>4   assembly and quantitate(stringtie)</font>](#-font-size-4-4---assembly-and-quantitate-stringtie---font-)
 - [[RNA_seq.sh](https://github.com/asuang/RNA_seq/blob/master/RNA_seq.sh)]
+- [<font color="steelblue">Pipe for RNA-seq(remove rRNA,total RNA) </font>](#-font-color--steelblue--pipe-for-rna-seq-remove-rrna-total-rna----font-)
 - [<font size=4>1   quality control (fastQC)</font>](#-font-size-4-1---quality-control--fastqc---font--1)
 - [<font size=4>2   mapping reads(RNA-seq mappers)</font>](#-font-size-4-2---mapping-reads-rna-seq-mappers---font--1)
 - [<font size=4>3   sorting alignment and converting(samtools)</font>](#-font-size-4-3---sorting-alignment-and-converting-samtools---font--1)
@@ -13,7 +15,7 @@
 - [<font size=4>5   compare (gffcompare)</font>](#-font-size-4-5---compare--gffcompare---font-)
 - [<font size=4>5  assembly and quantitate(stringtie)</font>](#-font-size-4-5--assembly-and-quantitate-stringtie---font-)
 - [[RNA_seq_total_RNA.sh](https://github.com/asuang/RNA_seq/blob/master/RNA_seq_total_RNA.sh)]
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>
 
 
 ##  <font size=4>1   quality control (fastQC)</font>
