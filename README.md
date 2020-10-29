@@ -1,4 +1,4 @@
-**<font color="grey"><font size=10>UPSTREAM ANALYSIS of RNA-Seq </font></font>**
+**<font color="grey"><font size=20>UPSTREAM ANALYSIS of RNA-Seq </font></font>**
 <font size=5><font color="grey"><p align="right">2020.10.27</p></font></font>
 #<font color="steelblue">Pipe for RNA-seq(polyA enrichment,mRNA) </font>
 
