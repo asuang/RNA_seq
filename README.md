@@ -1,4 +1,5 @@
 # **<font color="grey"><font size=200>UPSTREAM ANALYSIS of RNA-Seq </font></font>**
+![Status]
 <font size=5><font color="grey"><p align="right">2020.10.27</p></font></font>
 - [<font color="steelblue">Pipe for RNA-seq(polyA enrichment,mRNA) </font>](#-font-color--steelblue--pipe-for-rna-seq-ploya-enrichment-mrna----font-)
   - [<font size=4>1   quality control (fastQC)</font>](#-font-size-4-1---quality-control--fastqc---font-)
