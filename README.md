@@ -1,8 +1,21 @@
 **<font color="grey"><font size=40>UPSTREAM ANALYSIS of RNA-Seq </font></font>**
 <font size=5><font color="grey"><p align="right">2020.10.27</p></font></font>
 # <font color="steelblue">Pipe for RNA-seq(polyA enrichment,mRNA) </font>
+- [<font size=4>1   quality control (fastQC)</font>](#-font-size-4-1---quality-control--fastqc---font-)
+- [<font size=4>2   mapping reads(RNA-seq mappers)</font>](#-font-size-4-2---mapping-reads-rna-seq-mappers---font-)
+- [<font size=4>3   sorting alignment and converting(samtools)</font>](#-font-size-4-3---sorting-alignment-and-converting-samtools---font-)
+- [<font size=4>4   assembly and quantitate(stringtie)</font>](#-font-size-4-4---assembly-and-quantitate-stringtie---font-)
+- [[RNA_seq.sh](https://github.com/asuang/RNA_seq/blob/master/RNA_seq.sh)](#-rna-seqsh--https---githubcom-asuang-rna-seq-blob-master-rna-seqsh-)
+- [<font size=4>1   quality control (fastQC)</font>](#-font-size-4-1---quality-control--fastqc---font--1)
+- [<font size=4>2   mapping reads(RNA-seq mappers)</font>](#-font-size-4-2---mapping-reads-rna-seq-mappers---font--1)
+- [<font size=4>3   sorting alignment and converting(samtools)</font>](#-font-size-4-3---sorting-alignment-and-converting-samtools---font--1)
+- [<font size=4>4   assembly and quantitate(stringtie)</font>](#-font-size-4-4---assembly-and-quantitate-stringtie---font--1)
+- [<font size=4>5   compare (gffcompare)</font>](#-font-size-4-5---compare--gffcompare---font-)
+- [<font size=4>5  assembly and quantitate(stringtie)</font>](#-font-size-4-5--assembly-and-quantitate-stringtie---font-)
+- [[RNA_seq_total_RNA.sh](https://github.com/asuang/RNA_seq/blob/master/RNA_seq_total_RNA.sh)](#-rna-seq-total-rnash--https---githubcom-asuang-rna-seq-blob-master-rna-seq-total-rnash-)
 
-[TOC]
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 ##  <font size=4>1   quality control (fastQC)</font>
 Get the basic and quality information of the library.
