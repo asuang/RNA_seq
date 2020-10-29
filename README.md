@@ -1,6 +1,6 @@
 **<font color="grey"><font size=40>UPSTREAM ANALYSIS of RNA-Seq </font></font>**
 <font size=5><font color="grey"><p align="right">2020.10.27</p></font></font>
-#<font color="steelblue">Pipe for RNA-seq(polyA enrichment,mRNA) </font>
+# <font color="steelblue">Pipe for RNA-seq(polyA enrichment,mRNA) </font>
 
 [TOC]
 
@@ -40,7 +40,7 @@ stringtie -e -B -p 16 -G /media/hp/disk1/song/Genomes/${species}/Genes/genes.gtf
 ```
 ## [RNA_seq.sh](https://github.com/asuang/RNA_seq/blob/master/RNA_seq.sh)
 
-#<font color="steelblue">Pipe for RNA-seq(remove rRNA,total RNA) </font>
+# <font color="steelblue">Pipe for RNA-seq(remove rRNA,total RNA) </font>
 ##  <font size=4>1   quality control (fastQC)</font>
  same with the step 1 described above
 ##  <font size=4>2   mapping reads(RNA-seq mappers)</font>
